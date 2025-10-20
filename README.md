@@ -19,6 +19,12 @@ Farklı ekstratların (örneğin **Gül**, **Jojoba**, **Çay ağacı**) insan h
 
 ---
 
+## 🚀 Canlı Uygulamaya Ulaşın
+
+Uygulamayı hemen denemek için aşağıdaki bağlantıyı kullanabilirsiniz:
+
+[**Ekstrat AI Uygulamasını Hemen Dene**](https://ekstrataiprojesi-j2qgveeyidzmfqq9cxvhsr.streamlit.app/)
+
 ##  Kurulum ve Çalıştırma
 
 ###  Depoyu klonla
